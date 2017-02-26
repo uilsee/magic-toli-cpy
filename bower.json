@@ -1,0 +1,14 @@
+{
+  "name": "magic_toli",
+  "description": "toli",
+  "main": "",
+  "authors": [
+    "uilsee"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

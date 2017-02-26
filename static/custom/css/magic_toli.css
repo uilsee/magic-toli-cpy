@@ -1,0 +1,16 @@
+.navbar-magic {
+    background-color:#6DC066;
+    color:#fff;
+    border-radius:0;
+}
+
+.navbar-magic .navbar-nav > li > a {
+    color:#fff;
+}
+.navbar-magic .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #000;
+    background-color:transparent;
+}
+.navbar-magic .navbar-brand {
+    color:#eee;
+}
