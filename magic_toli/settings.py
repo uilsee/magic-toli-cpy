@@ -127,7 +127,7 @@ STATIC_ROOT = os.path.join('static')
 
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = ( os.path.join('static'), )
+#STATICFILES_DIRS = ( os.path.join('static'), )
 #BOWER_COMPONENTS_ROOT = os.path.join(BASE_DIR, 'components')
 
 STATICFILES_FINDERS = (
